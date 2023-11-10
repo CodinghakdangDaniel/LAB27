@@ -1,5 +1,10 @@
 .footer {
-    height: 80px;
+    display: flex;
     margin-top: auto;
-    background-color: coral;
+    padding: 20px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
 }
